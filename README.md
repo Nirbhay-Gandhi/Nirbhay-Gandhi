@@ -1,4 +1,4 @@
-I'm Nirbhay Gandhi, CSE undergraduate student at VIT-Vellore. 
+I'm Nirbhay Gandhi, CSE graduate student at VIT-Vellore. 
 I am learning mobile development Technologies like iOS development & React native for cross platform usage.
 I have also worked on the fields of ML, AI.
 

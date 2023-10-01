@@ -2,9 +2,10 @@
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&lines=This+is+HalemoGPA;Nice+to+meet+you+%F0%9F%91%8B)](https://git.io/typing-svg)       -->
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
+  <!-- <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=This+is+Halemo+GPA;Nice+to+meet+you+%F0%9F%91%8B&center=true&size=30">
-  </a>
+  </a> -->
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=IM+Fell+Great+Primer+SC&size=50&duration=8000&pause=1500&color=141E46&background=DAC0A379&center=true&vCenter=true&width=950&height=150&lines=Welcome+to+Nirbhay's+GitHub+Profile" alt="Typing SVG" /></a>
 </h1>
    
 ###  <img src="/images/Developer.gif" alt="developer gif"  height="45px">  About Me:

@@ -5,10 +5,15 @@
 </h1>
    
 ###  <img src="/images/Developer.gif" alt="developer gif"  height="45px">  About Me:
-<p align="center">
+<!-- <p align="center">
   <p style="margin-top: -10px; margin-bottom: 5px;  text-align: center;">I'm Nirbhay-Gandhi, Computer Science & Engineering Graduate from </p>
   <div Style = "margin-top: -10px; display:flex; align-items: center; justify-content: center; "> <p> <b>Vellore Institute of Technology [VIT] -Vellore</b> </p> <img src="/images/vitlogo.png" height="45px" width="42px" style="margin-left: 5px;"> </div>
+</p> -->
+<p align="center">
+  <p>I'm Nirbhay-Gandhi, Computer Science & Engineering Graduate from </p>
+  <p> <b>Vellore Institute of Technology [VIT] -Vellore</b> </p> <img src="/images/vitlogo.png" height="45px" width="42px" style="margin-left: 5px;">
 </p>
+
 
 <p align="center">
  <a href="https://www.linkedin.com/in/nirbhay-gandhi/">

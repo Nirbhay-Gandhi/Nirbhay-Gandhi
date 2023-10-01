@@ -9,9 +9,9 @@
   <p style="margin-top: -10px; margin-bottom: 5px;  text-align: center;">I'm Nirbhay-Gandhi, Computer Science & Engineering Graduate from </p>
   <div Style = "margin-top: -10px; display:flex; align-items: center; justify-content: center; "> <p> <b>Vellore Institute of Technology [VIT] -Vellore</b> </p> <img src="/images/vitlogo.png" height="45px" width="42px" style="margin-left: 5px;"> </div>
 </p> -->
-<p align="center">
-  <p style="text-align: center;">I'm Nirbhay-Gandhi, Computer Science & Engineering Graduate from </p>
-  <p> <b>Vellore Institute of Technology [VIT] -Vellore</b> </p> <img src="/images/vitlogo.png" height="45px" width="42px" style="margin-left: 5px;">
+<p align="center" display="flex">
+  <p align="center">I'm Nirbhay-Gandhi, Computer Science & Engineering Graduate from </p>
+  <p align="center"> <b>Vellore Institute of Technology [VIT] - Vellore</b> <img src="/images/gap.png" height="10px" width="10px"> <img src="/images/vitlogo.png" height="45px" width="42px" style="margin-left: "5px";"> </p>
 </p>
 
 

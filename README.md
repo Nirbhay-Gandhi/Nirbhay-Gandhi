@@ -1,16 +1,13 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Nirbhay-Gandhi/Nirbhay-Gandhi" alt="NirbhayGandhi">    
+<img align="center"  src="https://visitor-badge.laobi.icu/badge?page_id=Nirbhay-Gandhi/Nirbhay-Gandhi" alt="NirbhayGandhi">    
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&lines=This+is+HalemoGPA;Nice+to+meet+you+%F0%9F%91%8B)](https://git.io/typing-svg)       -->
 
 <h1 align="center">
-  <!-- <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=This+is+Halemo+GPA;Nice+to+meet+you+%F0%9F%91%8B&center=true&size=30">
-  </a> -->
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=IM+Fell+Great+Primer+SC&size=35&duration=8000&pause=1500&color=141E46&background=DAC0A379&center=true&vCenter=true&width=700&height=60&lines=Welcome+to+Nirbhay's+GitHub+Profile" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=IM+Fell+Great+Primer+SC&size=35&duration=6500&pause=1500&color=141E46&background=DAC0A379&center=true&vCenter=true&width=700&height=60&lines=Welcome+to+Nirbhay's+GitHub+Profile" alt="Typing SVG" /></a>
 </h1>
    
 ###  <img src="/images/Developer.gif" alt="developer gif"  height="45px">  About Me:
 <p align="center">
-  Hi, I'm Abdel-Haleem, Computer Engineer & Software Developer from EGYPT
+  I'm Nirbhay-Gandhi, Computer Science & Engineering Graduate from VIT-Vellore <img src="/images/vitlogo.webp">
   <br>
   <br>
   👨‍🎓 I'm currently studying for a Bachelor's degree in Mansoura University Computer Science and Control System Engineering Department (CCSED)

@@ -7,7 +7,7 @@
    
 ###  <img src="/images/Developer.gif" alt="developer gif"  height="45px">  About Me:
 <p align="center">
-  I'm Nirbhay-Gandhi, Computer Science & Engineering Graduate from VIT-Vellore <img src="/images/vitlogo.webp">
+  I'm Nirbhay-Gandhi, Computer Science & Engineering Graduate from VIT-Vellore <img src="/images/vitlogo.webp" height="45px">
   <br>
   <br>
   👨‍🎓 I'm currently studying for a Bachelor's degree in Mansoura University Computer Science and Control System Engineering Department (CCSED)

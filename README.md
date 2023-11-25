@@ -4,7 +4,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=IM+Fell+Great+Primer+SC&size=35&duration=6500&pause=1500&color=141E46&background=DAC0A379&center=true&vCenter=true&width=700&height=60&lines=Welcome+to+Nirbhay's+GitHub+Profile" alt="Typing SVG" /></a>
 </h1>
    
-<!--###  <img src="/images/Developer.gif" alt="developer gif"  height="45px"> -->  About Me:
+<!--###  <img src="/images/Developer.gif" alt="developer gif"  height="45px"> About Me: -->
 ###  About Me:
 <!-- <p align="center">
   <p style="margin-top: -10px; margin-bottom: 5px;  text-align: center;">I'm Nirbhay-Gandhi, Computer Science & Engineering Graduate from </p>

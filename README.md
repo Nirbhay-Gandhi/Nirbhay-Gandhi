@@ -17,13 +17,13 @@
 
 
 <p align="center">
- <a href="https://www.linkedin.com/in/nirbhay-gandhi/">
+ <a href="https://www.linkedin.com/in/nirbhay-gandhi/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=23>
  </a> 
- <a href="mailto:nsgandhi.in@gmail.com">
+ <a href="mailto:nsgandhi.in@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=23>
  </a>
-  <a href="https://codolio.com/profile/nid9190">
+  <a href="https://codolio.com/profile/nid9190" target="_blank">
     <img src="https://img.shields.io/badge/</>%20Codolio%20Profile-%23572328?style=for-the-badge&logoColor=orange&labelColor=%23d68439" height=23>
  </a>
 

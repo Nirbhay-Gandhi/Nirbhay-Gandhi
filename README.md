@@ -15,6 +15,9 @@
   <p align="center"> <b>Vellore Institute of Technology [VIT] - Vellore</b> <img src="/images/gap.png" height="10px" width="10px"> <img src="/images/vitlogo.png" height="45px" width="42px" style="margin-left: "5px";"> </p>
 </p>
 
+<div style="width: 100px; height: 25px; background-color: orange; border-radius: 5px; display: flex; align-items: center; justify-content: center; text-align: center;">
+    <a href="https://click.me" style="color: white; text-decoration: none; font-weight: bold;">Click me</a>
+</div>
 
 <p align="center">
  <a href="https://www.linkedin.com/in/nirbhay-gandhi/">
@@ -23,9 +26,7 @@
  <a href="mailto:nsgandhi.in@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=23>
  </a> 
-<div style="width: 100px; height: 25px; background-color: orange; border-radius: 5px; display: flex; align-items: center; justify-content: center; text-align: center;">
-    <a href="https://click.me" style="color: white; text-decoration: none; font-weight: bold;">Click me</a>
-</div>
+
 
 <!-- <a href="https://leetcode.com/nid9190/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=282828&logoColor=white&labelColor=&style=for-the-badge" height="23" alt="leetcode logo"  />

@@ -16,7 +16,6 @@
 </p>
 
 
-[![Codolio](https://img.shields.io/badge/Click%20me-orange?style=for-the-badge)](https://click.me)
 <p align="center">
  <a href="https://www.linkedin.com/in/nirbhay-gandhi/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=23>
@@ -25,7 +24,7 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=23>
  </a>
   <a href="https://codolio.com/profile/nid9190">
-    <img src="https://img.shields.io/badge/<>%20Codolio%20Profile-%23572328?style=for-the-badge&logoColor=orange&labelColor=%23d68439" height=23>
+    <img src="https://img.shields.io/badge/</>%20Codolio%20Profile-%23572328?style=for-the-badge&logoColor=orange&labelColor=%23d68439" height=23>
  </a>
 
 

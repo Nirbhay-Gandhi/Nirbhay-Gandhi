@@ -24,9 +24,8 @@
  <a href="mailto:nsgandhi.in@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=23>
  </a>
-  <a href="mailto:nsgandhi.in@gmail.com">
-    <img src="https://img.shields.io/badge/Codolio%20Profile-%23572328?style=for-the-badge&logoColor=white&labelColor=%23d68439" height=23>
-    [![Codolio Profile](https://img.shields.io/badge/Codolio%20Profile-%23572328?style=for-the-badge&logoColor=white&labelColor=%23d68439)](https://click.me)
+  <a href="https://codolio.com/profile/nid9190">
+    <img src="https://img.shields.io/badge/<>%20Codolio%20Profile-%23572328?style=for-the-badge&logoColor=orange&labelColor=%23d68439" height=23>
  </a>
 
 

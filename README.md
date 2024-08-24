@@ -16,7 +16,7 @@
 </p>
 
 
-[![Click me](https://img.shields.io/badge/Click%20me-orange?style=for-the-badge)](https://click.me)
+[![Codolio](https://img.shields.io/badge/Click%20me-orange?style=for-the-badge)](https://click.me)
 <p align="center">
  <a href="https://www.linkedin.com/in/nirbhay-gandhi/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=23>
@@ -24,6 +24,8 @@
  <a href="mailto:nsgandhi.in@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=23>
  </a> 
+ [![Codolio Profile](https://img.shields.io/badge/Codolio%20Profile-%23572328?style=for-the-badge&logoColor=white&labelColor=%23d68439)](https://click.me)
+
 
 
 <!-- <a href="https://leetcode.com/nid9190/" target="_blank">

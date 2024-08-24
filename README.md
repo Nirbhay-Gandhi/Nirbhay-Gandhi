@@ -23,9 +23,11 @@
  </a> 
  <a href="mailto:nsgandhi.in@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=23>
- </a> 
- [![Codolio Profile](https://img.shields.io/badge/Codolio%20Profile-%23572328?style=for-the-badge&logoColor=white&labelColor=%23d68439)](https://click.me)
-
+ </a>
+  <a href="mailto:nsgandhi.in@gmail.com">
+    <img src="https://img.shields.io/badge/Click%20me-orange?style=for-the-badge" height=23>
+    [![Codolio](https://img.shields.io/badge/Click%20me-orange?style=for-the-badge)](https://click.me)
+ </a>
 
 
 <!-- <a href="https://leetcode.com/nid9190/" target="_blank">

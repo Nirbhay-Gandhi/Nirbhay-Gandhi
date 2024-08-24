@@ -15,9 +15,8 @@
   <p align="center"> <b>Vellore Institute of Technology [VIT] - Vellore</b> <img src="/images/gap.png" height="10px" width="10px"> <img src="/images/vitlogo.png" height="45px" width="42px" style="margin-left: "5px";"> </p>
 </p>
 
-<div style="width: 100px; height: 25px; background-color: orange; border-radius: 5px; display: flex; align-items: center; justify-content: center; text-align: center;">
-    <a href="https://click.me" style="color: white; text-decoration: none; font-weight: bold;">Click me</a>
-</div>
+<a href="https://click.me" style="background-color: orange; color: white; padding: 5px 10px; border-radius: 5px; text-decoration: none; font-weight: bold; display: inline-block;">Click me</a>
+
 
 <p align="center">
  <a href="https://www.linkedin.com/in/nirbhay-gandhi/">
